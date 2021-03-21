@@ -1,3 +1,3 @@
 # cppCourseProject
-C++ University course project
-Second year Project, Simple console program
+C++ Second year University course project
+Simple restaurant console program

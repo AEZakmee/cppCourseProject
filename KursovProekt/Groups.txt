@@ -1,0 +1,4 @@
+1	Student               1		30
+2	Teacher               1		50
+3	Senior                1		40
+4	Outsiders             2		25

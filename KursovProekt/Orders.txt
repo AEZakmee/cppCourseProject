@@ -1,0 +1,4 @@
+Starter: Ovcharska_Salata,  MainCourse: Kufte_x3,  Dessert: Baklava    Total price: 8.4
+Starter: Supa_Topcheta,  MainCourse: Patatnik,  Dessert: Torta    Total price: 6.2
+Starter: Ovcharska_Salata,  MainCourse: Kufte_x3,  Dessert: Torta    Total price: 8.26
+Starter: Purjeni_Kartofi,  MainCourse: Kufte_x3,  Dessert: Torta    Total price: 6.72

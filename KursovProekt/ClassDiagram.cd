@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Dish">
+    <Position X="4.25" Y="1.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Dish::Dishtype">
+        <TypeIdentifier>
+          <NewMemberFileName>Dish.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAIIAAAAIABBEgABAAAggAAAACQABAAAACIAAAA=</HashCode>
+      <FileName>Dish.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order">
+    <Position X="9" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEQgAAAABBEAEAAAAEAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Order.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgramManager">
+    <Position X="1.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QiBAAQAIEAACBBQEAAAAQAABAAAAAIIgAECABIAgQAA=</HashCode>
+      <FileName>ProgramManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserGroup">
+    <Position X="6.5" Y="1.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="UserGroup::Disctype">
+        <TypeIdentifier>
+          <NewMemberFileName>Usergroup.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEghAIIAAIQAAAAAAAAAAAQABIAQAAAAAACIAACI=</HashCode>
+      <FileName>Usergroup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
